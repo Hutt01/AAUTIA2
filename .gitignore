@@ -1,0 +1,27 @@
+# Ignore Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders (common names)
+env/
+venv/
+
+# Ignore data folder (your datasets)
+Data/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore VSCode settings if using VSCode
+.vscode/
+
+# Optional: Ignore Jupyter runtime files
+.jupyter/
+
+# Optional: Ignore log files
+*.log
