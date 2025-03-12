@@ -12,6 +12,7 @@ venv/
 
 # Ignore data folder (your datasets)
 Data/
+Modelos/
 
 # Ignore system-specific files
 .DS_Store
