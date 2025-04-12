@@ -21,6 +21,7 @@ test_dataset/
 train_dataset/
 val_dataset/
 final_dataset/
+smote_dataset/
 
 # Ignore system-specific files
 .DS_Store
